@@ -1,8 +1,8 @@
-Project:Auto Intensity Control of street lights:
+## Project:Auto Intensity Control of street lights:
 in older days the street lights were controlld manually.But today these work automaticaly.By controlling lights according to time and 
 traffic we save a lot of energy.
 
-# The Hardwere for this project:-
+### The Hardwere for this project:-
 ATmega8 micro controller, DS 1307 IC, LDR,LCD display,PIR sensor and RTC.
 Principal:-
 The System consists of Atmega8 microcontroller, LDR, PIR sensor and RTC.System controlls the light using PIR sensor and light dependent 
