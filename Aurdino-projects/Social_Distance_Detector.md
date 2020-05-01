@@ -7,3 +7,11 @@ alerts you.This device will buzz an alarm when you are less than 6 feet away fro
 
 
 ![](https://github.com/Abhis-123/elecproject/blob/master/Capture.JPG)
+
+
+ # The Componets for this device are 
+ 1.Aurdino Nano 3
+ 2.	Ultrasonic Sensor - HC-SR04 (Generic
+ 3.Buzzer
+ 4.LED (generic)
+ 
