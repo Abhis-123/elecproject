@@ -10,7 +10,9 @@ resister.Street lights are switched on depending on the intensity of the Sun lig
 resistor is low, its resistance value is high. This value increases and becomes high when it is completely in dark. This resistance 
 value decides when the street lights are required to switch ON.
 PIR detects the presence of vehicles .Whenever PIR sensor is detected it just indicates the microcontroller to switch on the street 
-lights
+lights.
+
+
 Circuit Diagram of Street Lights That Glow on Vehicle Movement:
   ![](https://www.electronicshub.org/wp-content/uploads/2014/06/Auto-Intensity-Control-of-Street-Lights-Circuit-Diagram-768x367.jpg)
   
