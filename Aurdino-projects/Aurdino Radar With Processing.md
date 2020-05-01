@@ -1,7 +1,7 @@
 ## Aurdino Radar With Processing:-
 This project is based on Aurdino radar (HC-SR04) .It is digitally visualised using processing.It can be used i several other projects also 
 which uses some distancing or detection techniques.For example in detecting entrences in room .
-# The Hardwere Used For This is:-
+### The Hardwere Used For This is:-
 1.Ultrasonic Sensor - HC-SR04 (Generic)
 2.Servos (Tower Pro MG996R)
 3.Jumper wires (generic)	
